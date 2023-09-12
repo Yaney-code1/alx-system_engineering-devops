@@ -1,0 +1,1 @@
+this is the readme for this project . the project is 0x02 shell redirections
